@@ -1,1 +1,2 @@
 # Gomoku
+A Gomoku Game
